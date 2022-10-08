@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Android iOS Developer**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Django Rest Framework**
 
 - 🤝 I’m looking for help with **Flutter**
 
