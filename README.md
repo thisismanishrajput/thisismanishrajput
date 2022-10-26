@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Rajput</h1>
 <h3 align="center">A Passionate Mobile App Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisismanishrajput" alt="thisismanishrajput" /></a> </p>
-
 - 🔭 I’m currently working on **Android iOS Developer**
 
 - 🌱 I’m currently learning **Django Rest Framework**
@@ -13,7 +11,7 @@
 
 - 💬 Ask me about **Flutter,Python**
 
-- 📫 How to reach me **thisismanishrajput@gmail.com**
+- 📫 Visit my Portfolio **https://thisismanishrajput.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
