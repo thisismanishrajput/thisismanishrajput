@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Hello I'm Manish a Passionate App Developer
 🔭 I’m currently working on Android/iOS App Development with Flutter<br>🤝 I’m looking for help with ML<br>🌱 I’m currently learning Machine Learning and Data Science<br>💬 Ask me about Flutter<br>⚡ Fun fact is that I am a Programmer but I can't fix your printer 🤭👨‍💻
 
 
